@@ -41,14 +41,6 @@
 
 <br>
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroMarineli&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroMarineli&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br>
-
 <div align="center"> 
   <h3>📫 Connect with me</h3>
   <a href="https://www.linkedin.com/in/pedromarineli">
