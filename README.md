@@ -1,6 +1,6 @@
 <div align="center">
   <h2 align="center">Hi there, I'm Pedro Marineli! 👋</h2>
-  <h3 align="center">Fullstack Software Engineer | Cloud & DevOps</h3>
+  <h3 align="center">Cloud & DevOps</h3>
 </div>
 
 <p align="center">
